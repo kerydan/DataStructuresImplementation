@@ -9,6 +9,7 @@ public:
     TreeNode* right;
 };
 
+// Depth First Search Algorithm
 void dfs(TreeNode *n)
 {
     if (!n)
